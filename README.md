@@ -6,6 +6,14 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![Sponky customer app](customer-app.png)
+
+![Sponky rider app](rider-app.png)
+
+![Sponky restaurant app](restaurant-app.png)
+
 ## The need
 
 Customers order from many restaurants, riders deliver, and restaurants and admins run it all. Each group needed its own app or panel, all working on one shared backend.
